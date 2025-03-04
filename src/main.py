@@ -124,3 +124,5 @@
 # PR Merge: 2025-10-17 - enhancement/merge-2884
 
 # PR Merge: 2025-10-17 - refactor/merge-1161
+
+# PR Update: 2025-10-17 - docs/update-2252
